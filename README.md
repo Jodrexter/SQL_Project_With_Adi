@@ -1,0 +1,2 @@
+Overview
+This repository showcases my journey in learning and applying SQL. It includes practical examples of database creation, schema design, and writing optimized queries to manipulate and analyze data. The project focuses on building a strong foundation in SQL concepts and best practices.
